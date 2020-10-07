@@ -5,9 +5,10 @@ This repository shows the code used in the paper "U-Net Generative Adversarial N
 [PyTorch 1.6.0](https://pytorch.org/)<br>
 [matplotlib 3.3.1](https://matplotlib.org/)<br>
 [numpy 1.19.1](https://numpy.org/)<br>
+[Jupyter Notebook](https://jupyter.org/)
 ## Development environment
-Training of the GANs was performed on a NVIDIA 1070Ti GPU (Ubuntu, Intel i9-7900x CPU and 128GB RAM).
-All experiments apart from GAN training are performed on a laptop with NVIDIA 1050Ti GPU (Windows 10, Intel i5-7300HQ CPU and 16GB RAM).
-The code is verified on a machine without NVIDIA graphics processor (Windows 10, Intel i7-8700 CPU and 8GB RAM).
+Training of the GANs was performed on a NVIDIA 1070Ti GPU (Ubuntu, Intel i9-7900x CPU and 128GB RAM).<br>
+All experiments apart from GAN training are performed on a laptop with NVIDIA 1050Ti GPU (Windows 10, Intel i5-7300HQ CPU and 16GB RAM).<br>
+The code is verified on a machine without NVIDIA graphics processor (Windows 10, Intel i7-8700 CPU and 8GB RAM).<br>
 ## Support
-If you have any questions please feel free to contact me via [email](cupzck@gmail.com)
+If you have any questions please feel free to contact me via [cupzck@gmail.com](cupzck@gmail.com)
